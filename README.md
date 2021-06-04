@@ -60,6 +60,6 @@ adb logcat Unity:V tflite:V "*:S"
 
 ## Demo
 
-![screenshtot](https://github.com/codemaker2015/tflite-object-classification-demo/blob/master/Demo/demo.jpg)
-![screenshtot](https://github.com/codemaker2015/tflite-object-classification-demo/blob/master/Demo/demo.gif)
+| Screenshot | Demo video |
+| ![screenshtot](https://github.com/codemaker2015/tflite-object-classification-demo/blob/master/Demo/demo.jpg) | ![screenshtot](https://github.com/codemaker2015/tflite-object-classification-demo/blob/master/Demo/demo.gif) |
 
