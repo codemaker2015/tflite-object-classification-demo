@@ -1,4 +1,4 @@
-# TensorFlow Lite Object Classification Demo
+﻿# TensorFlow Lite Object Classification Demo
 
 Porting of ["TensorFlow Lite Examples"](https://www.tensorflow.org/lite/examples) to Unity.
 
@@ -60,6 +60,6 @@ adb logcat Unity:V tflite:V "*:S"
 
 ## Demo
 
-![screenshtot](git remote add origin https://github.com/codemaker2015/tflite-object-classification-demo/blob/master/Demo/demo.jpg)
-![screenshtot](git remote add origin https://github.com/codemaker2015/tflite-object-classification-demo/blob/master/Demo/demo.gif)
+![screenshtot](https://github.com/codemaker2015/tflite-object-classification-demo/blob/master/Demo/demo.jpg)
+![screenshtot](https://github.com/codemaker2015/tflite-object-classification-demo/blob/master/Demo/demo.gif)
 
